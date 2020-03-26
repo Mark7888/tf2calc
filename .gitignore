@@ -1,0 +1,6 @@
+*.egg-info
+build/
+dist/
+__pycache__/
+upload.bat
+tf2calc/__pycache__/
